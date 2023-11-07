@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o as _,c}from"./index-fae5d1f2.js";const o={},t={class:"image-wrap"};function s(n,a){return _(),c("div",t)}const i=e(o,[["render",s],["__scopeId","data-v-909cd00e"]]);export{i as default};
